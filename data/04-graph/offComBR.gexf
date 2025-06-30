@@ -74470,8 +74470,8 @@
       <edge source="original" target="ir" id="1180" weight="1" />
       <edge source="original" target="conteudo" id="1181" weight="1" />
       <edge source="ir" target="acabar" id="1182" weight="1" />
-      <edge source="ir" target="mimimi" id="1183" weight="2" />
-      <edge source="ir" target="trabalhar" id="1184" weight="3" />
+      <edge source="ir" target="mimimi" id="1183" weight="1" />
+      <edge source="ir" target="trabalhar" id="1184" weight="2" />
       <edge source="ir" target="pra" id="1185" weight="1" />
       <edge source="ir" target="kkk" id="1186" weight="1" />
       <edge source="ir" target="politico" id="1187" weight="3" />
@@ -74552,8 +74552,8 @@
       <edge source="Brasil" target="ano" id="1262" weight="1" />
       <edge source="Brasil" target="caso" id="1263" weight="1" />
       <edge source="Brasil" target="roubar" id="1264" weight="1" />
-      <edge source="Brasil" target="presidente" id="1265" weight="2" />
-      <edge source="Brasil" target="vir" id="1266" weight="2" />
+      <edge source="Brasil" target="presidente" id="1265" weight="1" />
+      <edge source="Brasil" target="vir" id="1266" weight="1" />
       <edge source="Brasil" target="tempo" id="1267" weight="1" />
       <edge source="Brasil" target="bom" id="1268" weight="4" />
       <edge source="Brasil" target="adotar" id="1269" weight="1" />
@@ -75249,7 +75249,7 @@
       <edge source="PEC" target="maligno" id="1959" weight="1" />
       <edge source="PEC" target="votar" id="1960" weight="1" />
       <edge source="PEC" target="jogar" id="1961" weight="1" />
-      <edge source="PEC" target="Publica" id="1962" weight="2" />
+      <edge source="PEC" target="Publica" id="1962" weight="1" />
       <edge source="desdobro" target="crise" id="1963" weight="1" />
       <edge source="crise" target="sair" id="1964" weight="1" />
       <edge source="crise" target="economico" id="1965" weight="1" />
@@ -75655,7 +75655,7 @@
       <edge source="tbm" target="Pepe" id="2365" weight="1" />
       <edge source="presidente" target="Coloque" id="2366" weight="1" />
       <edge source="presidente" target="continuar" id="2367" weight="1" />
-      <edge source="presidente" target="sr" id="2368" weight="2" />
+      <edge source="presidente" target="sr" id="2368" weight="1" />
       <edge source="presidente" target="Caro" id="2369" weight="1" />
       <edge source="presidente" target="Temer" id="2370" weight="1" />
       <edge source="presidente" target="haver" id="2371" weight="1" />
@@ -76154,14 +76154,14 @@
       <edge source="ditadura" target="grande" id="2864" weight="1" />
       <edge source="sr" target="aposentadoria" id="2865" weight="1" />
       <edge source="sr" target="previdencia" id="2866" weight="1" />
-      <edge source="vir" target="reforma" id="2867" weight="3" />
+      <edge source="vir" target="reforma" id="2867" weight="2" />
       <edge source="vir" target="jato" id="2868" weight="1" />
       <edge source="vir" target="delacoe" id="2869" weight="1" />
       <edge source="vir" target="capaz" id="2870" weight="1" />
       <edge source="vir" target="reserva" id="2871" weight="1" />
       <edge source="vir" target="Cody" id="2872" weight="1" />
       <edge source="vir" target="preparado" id="2873" weight="1" />
-      <edge source="reforma" target="chegar" id="2874" weight="2" />
+      <edge source="reforma" target="chegar" id="2874" weight="1" />
       <edge source="reforma" target="tributar" id="2875" weight="2" />
       <edge source="reforma" target="DIVIDA" id="2876" weight="1" />
       <edge source="reforma" target="R" id="2877" weight="1" />
@@ -76173,7 +76173,7 @@
       <edge source="reforma" target="tratar" id="2883" weight="1" />
       <edge source="reforma" target="previdencia" id="2884" weight="1" />
       <edge source="reforma" target="Gastar" id="2885" weight="1" />
-      <edge source="chegar" target="mimimi" id="2886" weight="3" />
+      <edge source="chegar" target="mimimi" id="2886" weight="2" />
       <edge source="chegar" target="finalmente" id="2887" weight="1" />
       <edge source="chegar" target="hora" id="2888" weight="2" />
       <edge source="chegar" target="trabalhar" id="2889" weight="1" />
@@ -77782,7 +77782,7 @@
       <edge source="veadinho" target="mansinho" id="4492" weight="1" />
       <edge source="BASTOU" target="AFUNDAREM" id="4493" weight="1" />
       <edge source="AFUNDAREM" target="BRASIL" id="4494" weight="1" />
-      <edge source="BRASIL" target="ACORDA" id="4495" weight="2" />
+      <edge source="BRASIL" target="ACORDA" id="4495" weight="1" />
       <edge source="Qualificou" target="investir" id="4496" weight="1" />
       <edge source="investir" target="pesar" id="4497" weight="1" />
       <edge source="pesar" target="peso" id="4498" weight="1" />
@@ -77941,13 +77941,13 @@
       <edge source="quase" target="mano" id="4651" weight="1" />
       <edge source="quase" target="hattrick" id="4652" weight="1" />
       <edge source="extincao" target="Continuem" id="4653" weight="1" />
-      <edge source="PESQUISE" target="PAICIPE" id="4654" weight="2" />
-      <edge source="PAICIPE" target="Consulta" id="4655" weight="2" />
-      <edge source="Consulta" target="Publica" id="4656" weight="2" />
-      <edge source="ESTAMOS" target="PEINHOS" id="4657" weight="2" />
-      <edge source="PEINHOS" target="MILHAO" id="4658" weight="2" />
-      <edge source="MILHAO" target="PAICIPANTES" id="4659" weight="2" />
-      <edge source="PAICIPANTES" target="ACORDA" id="4660" weight="2" />
+      <edge source="PESQUISE" target="PAICIPE" id="4654" weight="1" />
+      <edge source="PAICIPE" target="Consulta" id="4655" weight="1" />
+      <edge source="Consulta" target="Publica" id="4656" weight="1" />
+      <edge source="ESTAMOS" target="PEINHOS" id="4657" weight="1" />
+      <edge source="PEINHOS" target="MILHAO" id="4658" weight="1" />
+      <edge source="MILHAO" target="PAICIPANTES" id="4659" weight="1" />
+      <edge source="PAICIPANTES" target="ACORDA" id="4660" weight="1" />
       <edge source="Continuam" target="espalhar" id="4661" weight="1" />
       <edge source="senpre" target="fizerem" id="4662" weight="1" />
       <edge source="tentar" target="boicotar" id="4663" weight="1" />
